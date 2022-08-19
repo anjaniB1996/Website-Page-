@@ -1,0 +1,74 @@
+
+body{
+    background-color: #289ee9;
+    height: 100%;
+    margin: 2.5%;
+    
+}
+
+.main-container {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+}
+
+ button{
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    padding:30px;
+    border-radius: 15px;
+   font-size: 20px;
+
+
+    
+} 
+
+.p11{
+    font-size: 50px;
+    color:white;
+    font-weight: 800;
+    padding-top: 35px;
+}
+
+.p12{
+    font-size: 50px;
+    color:white;
+    font-weight: 800;
+
+}
+
+.p13{
+    font-size: 50px;
+    color:white;
+    font-weight: 800;
+
+}
+.p2{
+    font-size: 30px;
+    color:white;
+}
+.p3{
+   font-size: 20px;
+   color:white; 
+}
+
+button:hover{
+    background-color: #fff;
+    color: blue;
+}
+.icon{
+    font-size: 20px;
+    color: white;
+    float:right;
+
+}
+.icons{
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
+
+}
